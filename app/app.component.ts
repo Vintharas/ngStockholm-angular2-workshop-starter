@@ -8,5 +8,5 @@ import { Component } from 'angular2/core';
   styleUrls: ['app/app.component.css'],
 })
 export class AppComponent {
-  helloWorld:string = 'Hello World!!!! Angular 2 Yay!!';
+  helloWorld:string = 'Welcome to Angular 2 and ngStockholm!!!';
 }
